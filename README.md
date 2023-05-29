@@ -18,7 +18,7 @@
 | 2016  | JBO  | Xinwen Yao et al.  | Myocardial imaging using ultrahigh-resolution spectral domain optical coherence tomography  | OCT心肌纤维成像  |   |   |
 | 2016  | JBO  | Yu Gan et al.  | Automated classification of optical coherence tomography images of human atrial tissue  | OCT心肌纤维成像  |   |   |
 | 2017  | JACC  | Brian J. Hansen  | Fibrosis and Atrial Fibrillation: Computerized and Optical Mapping  | 心肌纤维光学成像  |   |   |
-|   |   |   |   |   |   |   |
+| 2017  | SPIE  | Theresa H. Lye  | Mapping the human atria with optical coherence tomography  | 心肌纤维光学成像  |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
